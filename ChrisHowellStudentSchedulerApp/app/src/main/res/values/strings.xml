@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Chris Howell Student Scheduler App</string>
+    <string name="Schedularstring">Schedular</string>
+    <string name="header2">Terms</string>
+    <string name="header3createTerm">Enter Details For Term</string>
+    <string name="addtermbtn">Add Term</string>
+    <string name="str_Term_Name">Term Name</string>
+    <string name="str_ID_num">Term ID Number:</string>
+    <string name="str_Start_Date">Start Date</string>
+    <string name="str_End_date">End Date</string>
+    <string name="createTermbtn">Create Term</string>
+    <string name="btn_Str_Cancel">Cancel</string>
+    <string name="btn_view_Term">View Term</string>
+    <string name="vtHeader">Term Details</string>
+    <string name="tbTitle">Chris Howell Scheduler</string>
+    <string name="cdMenubutton">menu</string>
+    <string name="cdbackButton">Return</string>
+    <string name="itNoteHere">Note Here</string>
+
+    <string name="header3createCourse">Enter Details For Course</string>
+    <string name="str_Course_Name">Course Name</string>
+    <string name="createCoursebtn">Create Course</string>
+    <string name="btn_view_Course">View Course</string>
+    <string name="str_Course_Status">Course Status</string>
+    <string name="str_Ins_Name">Instructor Name</string>
+    <string name="str_Ins_phone">Instructor Phone</string>
+    <string name="str_Ins_email">Instructor Email</string>
+    <string name="str_Course_Note">Course Note</string>
+    <string name="str_View_Assess">View</string>
+    <string name="str_CourseViewHeader">Course Details</string>
+    <string name="str_Course_id">Course ID</string>
+    <string name="str_Term_id">Term ID</string>
+    <string name="str_temp">Temp</string>
+    <string name="btn_str_save">Save</string>
+    <string name="str_add_edit_assessment">Add/Edit Assessment</string>
+    <string name="str_assessment_title">Assessment Title</string>
+    <string name="str_assessment_type">Assessment Type</string>
+    <string name="str_enter_title">Enter Title</string>
+    <string name="str_enter_SD">Enter Start Date</string>
+    <string name="str_enter_ED">Enter End Date</string>
+    <string name="str_assessment_details">Assessment Details</string>
+    <string name="str_assessment_id">Assignment ID</string>
+    <string name="channel_name">SchedularChannel1</string>
+    <string name="channel_description">Notifications for Schedular</string>
+
+
+    <string-array name="course_status_options">
+        <item>In_Progress</item>
+        <item>Completed</item>
+        <item>Dropped</item>
+        <item>Plan_To_Take</item>
+    </string-array>
+    <string-array name="Asses_Type_options">
+        <item>OBJECTIVE</item>
+        <item>PERFORMANCE</item>
+    </string-array>
+</resources>
